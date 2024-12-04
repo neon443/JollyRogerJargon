@@ -2,16 +2,16 @@
     "manifest_version": 3,
     "default_locale": "en",
 
-    "name": "__MSG_extension_name__",
-    "description": "__MSG_extension_description__",
+    "name": "JollyRogerJargon",
+    "description": "Pirate Speak-ify every website",
     "version": "1.0",
 
     "icons": {
-        "48": "images/icon-48.png",
-        "96": "images/icon-96.png",
-        "128": "images/icon-128.png",
-        "256": "images/icon-256.png",
-        "512": "images/icon-512.png"
+        "48": "images/icon.png",
+        "96": "images/icon.png",
+        "128": "images/icon.png",
+        "256": "images/icon.png",
+        "512": "images/icon.png"
     },
 
     "background": {
@@ -21,13 +21,28 @@
 
     "content_scripts": [{
         "js": [ "content.js" ],
-        "matches": [ "*://example.com/*" ]
+        "matches": [ "<all_urls>" ]
     }],
 
     "action": {
         "default_popup": "popup.html",
-        "default_icon": "images/toolbar-icon.svg"
+        "default_icon": "images/toolbar-icon.jpg"
     },
 
-    "permissions": [ ]
+    "permissions": [ "activeTab", "storage" ]
 }
+x9 npNo11t
+7HLjVmvLc
+GtuafiUJK
+hYMilyy1NA48
+EQZG0tMxCjBXzytAsTXW
+bLzYEyzR6vs
+AdBYAh
+GxicWm
+NMYquyM
+sGHdW
+Whe 7ESYPogiHhkEaH
+xbyMuluJtBc4KYbMV
+59N5E840Jnb2Wu
+FTXmxKaEE ewB qqGB
+uJtYGxi7wyk2XCp8 
